@@ -6,7 +6,7 @@ AI Hub의 객체 인식용 한국형 비전 데이터셋
 
 학습에 사용하지 않은 IMG_0058403_apple(apple).jpg에 대한 객체 탐지 결과는 다음과 같음  
 
-
+![IMG_0058403_apple(apple)](https://github.com/njh2663/Object-Detection_Yolov8/assets/103977462/6fdeb309-40b5-4876-b5dd-538f4798bb36)
 
 실행 환경은 다음과 같으며, 데이터는 파일 용량 제한으로 인해 업로드하지 않음
 - python 3.8.6  
